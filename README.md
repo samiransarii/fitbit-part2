@@ -2,7 +2,7 @@
 
 Submitted by: **Samir Ansari**
 
-**Fit Bitp** is a health metrics app that allows users to track ... [TODO] 
+**Fit Bitp** is a health metrics app that allows users to track daily calories intake. 
 
 Time spent: **4** hours spent in total
 
